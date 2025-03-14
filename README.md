@@ -1,5 +1,5 @@
 # polymorphic rust engine
-
+(this will have a shit ton of warnings, ignore)
 ## What’s This About?
 
 Okay, so `RustPolyMorph` is a cool tool I built with Rust that spits out ransomware that works on Windows. I make it on Linux and turn it into a Windows `.exe` file. It grabs files where it’s at, encrypts them with AES-256-CBC, and sticks a `.enc` on the end.
